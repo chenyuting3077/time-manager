@@ -1,4 +1,4 @@
-# 時間管家 Time Butler ⏱️
+# 時間管家 Time Manager ⏱️
 
 > **「時間比金錢更有價值，因為你永遠賺不到更多的時間。」— Jim Rohn**
 
